@@ -3,7 +3,7 @@
 		<ul>
 			<li><a href="index.php">HOME</a></li>
 
-			<li><a href="about.php">About</a></li>
+			<li><a href="index.php?page=about">About</a></li>
 			<!--
 			 
 			-->
